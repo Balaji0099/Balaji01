@@ -1,0 +1,121 @@
+.BAL {
+    text-transform: capitalize;
+    color: blacks;
+    margin-bottom: 10px;
+}
+
+.NET {
+    margin-top: -20px;
+    margin-left: 5px;
+    background-color: pink;
+    margin-right: 1207px;
+}
+
+h1 {
+    color: red;
+    margin: 0;
+    font-size: 24px;
+}
+
+h3 {
+    color: brown;
+    font-weight: bold;
+
+
+}
+
+table tr th,
+td {
+    border: 1px solid black;
+    text-align: center;
+    padding: 8px;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th {
+    margin-left: 100px;
+    background-color: whitesmoke;
+    color: red;
+    font-weight: bold;
+}
+
+td {
+    color: black;
+}
+
+.ji {
+    color: red;
+}
+
+body {
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 20px;
+   
+    align-items: center;
+
+}
+
+:hover img {
+    background-color: transparent;
+
+
+}
+
+img {
+    opacity: 03;
+}
+
+.BB {
+    position: relative;
+}
+
+.A1 {
+    position: absolute;
+    top: 0;
+}
+
+tcs {
+    margin-bottom: 20px;
+}
+
+footer {
+    background-color: brown;
+    color: black padding: 10px;
+    text-align: center;
+}
+
+.p {
+    background-color: reds;
+
+}
+
+h4 {
+    color: red;
+    border: 1px solid black;
+    text-align: center;
+    padding: 8px;
+
+}
+
+.link {
+    color: red;
+}
+
+p {
+    margin-bottom: 10px;
+}
+
+h2 {
+    color: red;
+    font-size: medium;
+}
+
+:hover footer {
+    color: blanchedalmond;
+}
